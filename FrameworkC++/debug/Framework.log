@@ -1,0 +1,12 @@
+﻿  CollisionManager.cpp
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(92): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(93): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(94): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\ngoc.dangxuan\frameworkc++\collisionmanager.cpp(95): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Framework.vcxproj -> C:\ngoc.dangxuan\FrameworkC++\BIN\Framework.exe
+  Framework.vcxproj -> BIN\Framework.pdb (Full PDB)
